@@ -7,5 +7,5 @@ This repository contains two key files related to the analysis of Blinkit's groc
    - Examines various dimensions including outlet type, location, and product categories.
    - Supports data-driven decision-making to enhance strategic planning and operational improvements for grocery outlets.
 
-2. Raw Data File():
+2. Raw Data File(https://github.com/Tanisha1606/Blinkit-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx):
    - Contains the raw data from which the insights in the Power BI report were derived.
